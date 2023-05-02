@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-transform: capitalize;
+    font-size: 18px;
+}
+a{
+    color: aliceblue;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+i{
+    font-size: 40px;
+    color: aliceblue;
+    border: none;
+    background-color: none;
+    outline: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    position: absolute;
+    right: 100px;
+}
